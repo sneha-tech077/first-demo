@@ -1,4 +1,4 @@
 # first-demo
 This is my first Git repository
 <br>
-Author = Sneha Jaiswal
+Author = Sneha Chaudhary
